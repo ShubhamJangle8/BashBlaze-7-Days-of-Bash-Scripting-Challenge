@@ -36,6 +36,3 @@ echo "My home directory is $HOME, Trying to access with user $USER in the presen
 # Wildcards are special characters used to perform pattern matching when working with files. Your task is to create a bash script that utilizes wildcards to list all the files with a specific extension in a directory.
 
 ls *.txt
-
-
-
